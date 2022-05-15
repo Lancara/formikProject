@@ -1,0 +1,16 @@
+.hTitle{
+    margin-left: 20px;
+    font-size: 26px;
+}
+
+.displayTitle{
+    margin-left: 35px;
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: normal;
+}
+.displayDescription{
+    margin-left: 35px;
+    font-size: 18px;
+    font-weight: normal;
+}

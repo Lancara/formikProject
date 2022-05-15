@@ -1,0 +1,41 @@
+.hTitle{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.titleHSecondWord{
+    font-size: 26px;
+    font-weight: normal;
+}
+.title{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.description{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.buttonSubmit{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 105px;
+    height: 35px;
+    box-shadow: 0 1px 0px #3c354a;
+    border-radius: 5px;
+}
+.buttonSubmit:hover{
+    color: #fff;
+    box-shadow: 0 0px 0px #3c354a;
+    background-color: lightblue;
+    transition-duration: 0.2s;
+}
+.displayTitle{
+    margin-left: 20px;
+    margin-top: 15px;
+        font-size: 24px;
+        font-weight: normal;
+}
+.displayDescription{
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: normal;
+}
